@@ -1,0 +1,17 @@
+cafe_da_manha,banheiro_privativo,perto_da_praia,boas_recomendacoes,preco,gostei
+1,1,0,0,barato,nao
+1,0,0,0,medio,nao
+1,0,1,1,caro,nao
+0,0,0,0,medio,nao
+1,1,0,1,barato,sim
+1,0,0,0,medio,nao
+0,1,0,0,caro,nao
+1,1,0,0,barato,nao
+1,0,1,1,medio,sim
+1,0,0,1,barato,sim
+1,0,0,1,medio,sim
+0,0,0,1,barato,sim
+0,0,1,1,barato,sim
+0,0,0,1,caro,nao
+1,0,1,1,caro,nao
+1,1,1,1,caro,nao

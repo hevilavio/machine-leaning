@@ -1,0 +1,4 @@
+Instalar os modulos:
+pip3 install scikit-learn numpy scipy
+pip3 install pandas
+
